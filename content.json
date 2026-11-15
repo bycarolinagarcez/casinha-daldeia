@@ -38,55 +38,111 @@
     },
     "en": {
       "welcome": "Welcome!",
-      "intro": "Some places invite us to slow down, appreciate the little things, and rediscover the simple pleasure of taking our time.\n\nWe hope Casinha D’Aldeia will be one of them.\n\nMake yourselves at home!",
-      "guide": "House Guide",
-      "discover": "Explore Gerês",
+      "intro": "Some places invite us to slow down, appreciate the little things, and rediscover the simple pleasure of taking our time.\n\nWe hope Casinha D’Aldeia will be one of them.\n\n**Make yourselves at home!**",
+      "guide": "Your Stay",
+      "discover": "Explore Peneda-Gerês",
       "experiences": "Experiences",
-      "hosts": "Your Hosts",
+      "hosts": "Your Host",
       "rules": "House Rules",
-      "guideBody": "House information coming soon.",
-      "discoverBody": "Surrounded by mountains, forests, rivers, and villages where time seems to move a little more slowly, Peneda-Gerês National Park reveals its charms to those who take the time to explore.\n\nFrom Campo do Gerês, discover the natural beauty and rich heritage of this remarkable region. Wander along mountain trails, explore traditional villages, and let yourself be surprised by the breathtaking landscapes around every corner.\n\nSome of the most memorable moments are the ones you never planned: a scenic drive, an unexpected conversation, or simply stopping to take in the beauty of nature.\n\n**Explore Peneda-Gerês National Park at your own pace. There’s always another hidden gem waiting to be discovered.**",
-      "experiencesBody": "Peneda-Gerês National Park is an invitation to adventure and new experiences. With its mountains, rivers, and forests, it offers countless ways to explore the region and create unforgettable memories.\n\nDiscover its breathtaking landscapes on horseback, follow scenic mountain trails, or enjoy outdoor activities that allow you to experience the park from a different perspective.\n\nWhether you're seeking the thrill of adventure, a chance to reconnect with nature, or a memorable experience to share with family, we've gathered a few suggestions to make your stay even more special.\n\n**Choose your next adventure and let Peneda-Gerês National Park surprise you!**",
-      "rulesBody": "House rules coming soon.",
       "food": "Food & Dining",
-      "equicampoOffer": "Enjoy 15% off all Equicampo activities during your stay at Casinha D’Aldeia.",
-      "directionsBody": "**__Arriving by plane__**\n\n**Porto Airport (OPO)**\n\nFrancisco Sá Carneiro Airport is the closest international airport to Casinha D’Aldeia, approximately 1 hour and 30 minutes away by car. It is the most convenient option for guests travelling from abroad.\n\n**Lisbon Airport (LIS)**\n\nLisbon Airport is approximately 4 hours and 30 minutes to 5 hours away by car.\n\n**__Travelling by car__**\n\nCasinha D’Aldeia is located in Campo do Gerês, a traditional village in the heart of Peneda-Gerês National Park.\n\nApproximate driving times:\n\n- From **Braga**: 50 minutes\n- From **Porto**: 1 hour 30 minutes\n- From **Lisbon**: 4 hours 30 minutes to 5 hours\n\nWe recommend using Google Maps for the most convenient route directly to the house.\n\n**__Travelling by public transport__**\n\nBraga is the main transport hub for reaching Campo do Gerês, with train and bus connections from Porto and other Portuguese cities.\n\nRegional buses connect Braga to Campo do Gerês, although services are limited, particularly at weekends and on public holidays.\n\nWe recommend renting a car for greater flexibility, especially if you wish to explore the National Park and its many attractions.\n\n**A little tip before you arrive**\n\nThe final part of your journey takes you along winding mountain roads, with beautiful views of the surrounding landscape. Take your time, enjoy the scenery and, if possible, plan to arrive before sunset.\n\nSimply use the button below to open Google Maps and navigate directly to Casinha D’Aldeia.\n\n**Safe travels! We look forward to welcoming you to Peneda-Gerês National Park.**",
-      "directionsButton": "Get directions",
-      "stayIntro": "To help you feel right at home, we’ve gathered everything you need to know for a comfortable, relaxing, and worry-free stay."
+      "guideBody": "We want you to feel at home from the moment you arrive.\n\n**Check-in:** from 4:00 pm\n**Check-out:** by 12:00 noon\n\nThis guide brings together useful information to help you enjoy your stay.",
+      "discoverBody": "Surrounded by mountains, forests, rivers, and villages where time seems to move a little more slowly, Peneda-Gerês National Park reveals its charms to those who take the time to explore.\n\nFrom Campo do Gerês, discover the natural beauty and rich heritage of this remarkable region. Wander along mountain trails, explore traditional villages, and let yourself be surprised by the landscapes around every corner.\n\nSome of the most memorable moments are the ones you never planned: a scenic drive, an unexpected conversation, or simply stopping to take in the beauty of nature.\n\n**Explore Peneda-Gerês National Park at your own pace. There’s always another hidden gem waiting to be discovered.**",
+      "experiencesBody": "Peneda-Gerês National Park is an invitation to adventure and new experiences. With its mountains, rivers, and forests, it offers countless ways to explore the region and create unforgettable memories.\n\nDiscover its landscapes on horseback, follow scenic mountain trails, or enjoy outdoor activities that allow you to experience the park from a different perspective.\n\nWhether you’re seeking the thrill of adventure, a chance to reconnect with nature, or a memorable experience to share with family, we’ve gathered a few suggestions to make your stay even more special.\n\n**Choose your next adventure and let Peneda-Gerês National Park surprise you!**",
+      "foodBody": "In Peneda-Gerês National Park, discovering the region also means discovering its flavours. Around the table, local traditions come to life through regional dishes, local produce, and the warmth of Portuguese hospitality.\n\nFrom traditional restaurants to more relaxed dining spots, we’ve gathered a few recommendations to help you savour the best of the local cuisine, whether it’s a leisurely lunch after a morning of exploring or a peaceful dinner at the end of the day.\n\n**Discover the flavours of the region and take your time to savour every meal!**",
+      "stayIntro": "To help you feel right at home, we’ve gathered everything you need to know for a comfortable, relaxing, and worry-free stay.",
+      "directionsBody": "Casinha D’Aldeia is in Campo do Gerês, in the heart of Peneda-Gerês National Park.\n\n**Arriving by plane**\n\n**Porto Airport (OPO)** is the nearest international airport, approximately 1 hour and 30 minutes away by car.\n\n**Lisbon Airport (LIS)** is approximately 4 hours and 30 minutes to 5 hours away by car.\n\n**Travelling by car**\n\nApproximate driving times: Braga 50 minutes; Porto 1 hour and 30 minutes; Lisbon 4 hours and 30 minutes to 5 hours. We recommend following your GPS directly to the house.\n\n**Travelling by public transport**\n\nBraga has train and bus connections from major Portuguese cities. Regional buses connect Braga to Campo do Gerês, but services may be infrequent, especially at weekends and on public holidays. Please check timetables in advance. Renting a car makes exploring the National Park much easier.\n\n**A little tip before you arrive**\n\nThe final stretch follows winding mountain roads with beautiful scenery. Take your time and, if possible, arrive before sunset. Use the button below to navigate directly to Casinha D’Aldeia.\n\n**Safe travels! We look forward to welcoming you to Peneda-Gerês National Park.**",
+      "directionsButton": "Get directions on Google Maps",
+      "equicampoOffer": "Enjoy **15% off** all Equicampo activities during your stay at Casinha D’Aldeia.",
+      "contactHeading": "Contact Your Host",
+      "contactIntro": "We’re nearby and always happy to help, answer any questions, or assist with anything you may need during your stay.",
+      "contactCall": "Call",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Send an Email",
+      "hostsHeading": "Discover Equicampo",
+      "hostsWebsiteButton": "Discover Equicampo",
+      "hostsBody": "Behind Casinha D’Aldeia is **Equicampo**, a company founded in 1995 in the heart of Peneda-Gerês National Park, born from a passion for nature, horses, and this remarkable corner of Portugal.\n\nFor over 30 years, we’ve been sharing the beauty of the region with our visitors through horseback riding, guided walks, outdoor adventures, and experiences that offer an authentic way to discover the mountains and landscapes around us.\n\nCasinha D’Aldeia is a natural extension of that same spirit of hospitality. A place to rest, slow down, and experience Peneda-Gerês National Park at your own pace.\n\nWe’re always close by and happy to help make your stay a memorable one.",
+      "rulesBody": "We have prepared Casinha D’Aldeia with care so that every guest feels comfortable and welcome.\n\nPlease treat this place as you would your own home, respecting the house, its equipment, and the peace of our neighbours.\n\nBefore leaving, please switch off the lights, close the windows, and leave the house in good condition.\n\nIf anything unexpected happens or something is not working properly, let us know. We are here to help.\n\nThank you for helping us look after this little place we love to share."
     },
     "es": {
       "welcome": "¡Bienvenidos!",
-      "intro": "Nos alegra darles la bienvenida. Siéntanse como en casa y disfruten de su estancia.",
-      "guide": "Guía de la casa",
-      "discover": "Descubrir Gerês",
+      "intro": "Hay lugares que nos invitan a bajar el ritmo, disfrutar de las pequeñas cosas y redescubrir el placer de vivir sin prisas.\n\nEsperamos que Casinha D’Aldeia sea uno de ellos.\n\n**¡Siéntanse como en casa!**",
+      "guide": "Su estancia",
+      "discover": "Descubrir Peneda-Gerês",
       "experiences": "Experiencias",
-      "hosts": "Anfitriones",
+      "hosts": "Su anfitrión",
       "rules": "Normas de la casa",
-      "guideBody": "Información de la casa próximamente.",
-      "discoverBody": "Próximamente nuestras recomendaciones locales.",
-      "experiencesBody": "Descubra las experiencias de la región.",
-      "rulesBody": "Normas próximamente.",
       "food": "Gastronomía",
-      "equicampoOffer": "Disfruta de un 15 % de descuento en todas las actividades de Equicampo durante tu estancia en Casinha D’Aldeia.",
-      "directionsBody": "",
-      "directionsButton": "Cómo llegar"
+      "guideBody": "Queremos que se sientan como en casa desde el primer momento.\n\n**Entrada:** a partir de las 16:00\n**Salida:** hasta las 12:00\n\nEn esta guía encontrarán información útil para disfrutar de su estancia.",
+      "discoverBody": "Entre montañas, bosques, ríos y aldeas donde el tiempo parece transcurrir más despacio, el Parque Nacional de Peneda-Gerês revela sus encantos a quienes lo exploran con curiosidad.\n\nDesde Campo do Gerês, descubran la belleza natural y el patrimonio de esta región tan especial. Recorran senderos de montaña, visiten aldeas tradicionales y déjense sorprender por sus paisajes.\n\nAlgunos de los mejores momentos surgen sin planearlos: una carretera panorámica, una conversación inesperada o una pausa para contemplar la naturaleza.\n\n**Descubran el Parque Nacional de Peneda-Gerês a su ritmo. Siempre queda algún rincón por explorar.**",
+      "experiencesBody": "El Parque Nacional de Peneda-Gerês invita a vivir aventuras y descubrir nuevas experiencias. Entre montañas, ríos y bosques, encontrarán numerosas formas de explorar la región y crear recuerdos inolvidables.\n\nDescubran sus paisajes a caballo, recorran senderos de montaña o disfruten de actividades al aire libre que permiten conocer el parque desde otra perspectiva.\n\nYa busquen la emoción de la aventura, el contacto con la naturaleza o una experiencia en familia, hemos reunido algunas propuestas para hacer su estancia aún más especial.\n\n**¡Elijan su próxima aventura y déjense sorprender por Peneda-Gerês!**",
+      "foodBody": "En el Parque Nacional de Peneda-Gerês, los sabores también forman parte del descubrimiento. A la mesa, las tradiciones cobran vida en los platos típicos, los productos locales y la cálida hospitalidad portuguesa.\n\nDesde restaurantes tradicionales hasta locales más informales, hemos reunido algunas recomendaciones para disfrutar de la gastronomía de la región, ya sea durante un almuerzo tranquilo después de una mañana de aventuras o una cena relajada al final del día.\n\n**¡Descubran los sabores de la región y saboreen cada comida sin prisas!**",
+      "stayIntro": "Para que se sientan como en casa, hemos reunido toda la información necesaria para disfrutar de una estancia tranquila y sin preocupaciones.",
+      "directionsBody": "Casinha D’Aldeia se encuentra en Campo do Gerês, en pleno Parque Nacional de Peneda-Gerês.\n\n**En avión**\n\n**Aeropuerto de Oporto (OPO):** el aeropuerto internacional más cercano, a aproximadamente 1 hora y 30 minutos en coche.\n\n**Aeropuerto de Lisboa (LIS):** a unas 4 horas y 30 minutos o 5 horas en coche.\n\n**En coche**\n\nTiempos aproximados: desde Braga, 50 minutos; desde Oporto, 1 hora y 30 minutos; desde Lisboa, entre 4 horas y 30 minutos y 5 horas. Recomendamos utilizar el GPS para llegar directamente a la casa.\n\n**En transporte público**\n\nBraga cuenta con conexiones de tren y autobús. Desde su estación de autobuses hay servicios regionales a Campo do Gerês, aunque son limitados, especialmente los fines de semana y festivos. Consulten los horarios con antelación. Alquilar un coche facilita explorar el parque.\n\n**Un último consejo**\n\nEl tramo final transcurre por carreteras de montaña con curvas y hermosos paisajes. Viajen sin prisas y, si es posible, lleguen antes del anochecer. Utilicen el botón de abajo para abrir la ruta en Google Maps.\n\n**¡Buen viaje! Les esperamos en el Parque Nacional de Peneda-Gerês.**",
+      "directionsButton": "Cómo llegar con Google Maps",
+      "equicampoOffer": "Disfruten de un **15 % de descuento** en todas las actividades de Equicampo durante su estancia en Casinha D’Aldeia.",
+      "contactHeading": "Contactar con el anfitrión",
+      "contactIntro": "Estamos cerca y siempre encantados de ayudarles, resolver sus dudas o atender cualquier necesidad durante su estancia.",
+      "contactCall": "Llamar",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Enviar correo electrónico",
+      "hostsHeading": "Descubran Equicampo",
+      "hostsWebsiteButton": "Conocer Equicampo",
+      "hostsBody": "Detrás de Casinha D’Aldeia está **Equicampo**, una empresa fundada en 1995 en el corazón del Parque Nacional de Peneda-Gerês, nacida de la pasión por la naturaleza, los caballos y esta región tan especial.\n\nDesde hace más de 30 años compartimos lo mejor de la región con quienes nos visitan mediante paseos a caballo, rutas de senderismo, actividades de aventura y experiencias que permiten descubrir la montaña de forma auténtica.\n\nCasinha D’Aldeia es una prolongación de ese mismo espíritu de hospitalidad. Un lugar para descansar, bajar el ritmo y disfrutar del Parque Nacional de Peneda-Gerês a su manera.\n\nEstamos cerca y siempre disponibles para ayudarles a disfrutar de una estancia inolvidable.",
+      "rulesBody": "Hemos preparado Casinha D’Aldeia con cariño para que todos nuestros huéspedes se sientan cómodos y bienvenidos.\n\nLes pedimos que cuiden este lugar como si fuera su casa, respetando las instalaciones y la tranquilidad de los vecinos.\n\nAntes de salir, comprueben que las luces estén apagadas, las ventanas cerradas y la casa en buenas condiciones.\n\nSi surge algún imprevisto o algo no funciona correctamente, avísennos. Estamos aquí para ayudar.\n\nGracias por ayudarnos a cuidar este pequeño lugar que tanto nos gusta compartir."
     },
     "fr": {
       "welcome": "Bienvenue !",
-      "intro": "Nous sommes ravis de vous accueillir. Faites comme chez vous et profitez de votre séjour.",
-      "guide": "Guide de la maison",
-      "discover": "Découvrir le Gerês",
+      "intro": "Certains lieux nous invitent à ralentir, à apprécier les petites choses et à redécouvrir le plaisir de prendre son temps.\n\nNous espérons que Casinha D’Aldeia sera l’un de ces lieux.\n\n**Faites comme chez vous !**",
+      "guide": "Votre séjour",
+      "discover": "Découvrir Peneda-Gerês",
       "experiences": "Expériences",
-      "hosts": "Vos hôtes",
+      "hosts": "Votre hôte",
       "rules": "Règles de la maison",
-      "guideBody": "Informations sur la maison à venir.",
-      "discoverBody": "Nos recommandations locales arrivent bientôt.",
-      "experiencesBody": "Découvrez les expériences de la région.",
-      "rulesBody": "Règles à venir.",
       "food": "Gastronomie",
-      "equicampoOffer": "Profitez de 15 % de réduction sur toutes les activités Equicampo pendant votre séjour à Casinha D’Aldeia.",
-      "directionsBody": "",
-      "directionsButton": "Itinéraire"
+      "guideBody": "Nous souhaitons que vous vous sentiez chez vous dès votre arrivée.\n\n**Arrivée :** à partir de 16 h\n**Départ :** jusqu’à 12 h\n\nCe guide rassemble les informations utiles pour profiter pleinement de votre séjour.",
+      "discoverBody": "Entre montagnes, forêts, rivières et villages où le temps semble s’écouler plus lentement, le parc national de Peneda-Gerês dévoile ses charmes à ceux qui prennent le temps de l’explorer.\n\nDepuis Campo do Gerês, découvrez la beauté naturelle et le riche patrimoine de cette région. Parcourez les sentiers de montagne, visitez les villages traditionnels et laissez-vous surprendre par les paysages.\n\nCertains des plus beaux souvenirs naissent sans programme : une route panoramique, une rencontre inattendue ou une pause pour contempler la nature.\n\n**Explorez le parc national de Peneda-Gerês à votre rythme. Il reste toujours un nouveau trésor à découvrir.**",
+      "experiencesBody": "Le parc national de Peneda-Gerês est une invitation à l’aventure et aux nouvelles expériences. Entre montagnes, rivières et forêts, mille possibilités s’offrent à vous pour explorer la région et créer des souvenirs inoubliables.\n\nDécouvrez les paysages à cheval, empruntez les sentiers de montagne ou profitez d’activités de plein air pour découvrir le parc sous un autre angle.\n\nQue vous recherchiez des sensations fortes, un moment de reconnexion avec la nature ou une expérience à partager en famille, nous avons réuni quelques suggestions pour rendre votre séjour encore plus spécial.\n\n**Choisissez votre prochaine aventure et laissez-vous surprendre par Peneda-Gerês !**",
+      "foodBody": "Dans le parc national de Peneda-Gerês, la découverte passe aussi par les saveurs. À table, les traditions prennent vie à travers les spécialités régionales, les produits locaux et la chaleur de l’hospitalité portugaise.\n\nDes restaurants traditionnels aux adresses plus décontractées, nous avons sélectionné quelques suggestions pour savourer la cuisine locale, le temps d’un déjeuner après une matinée d’exploration ou d’un dîner paisible en fin de journée.\n\n**Découvrez les saveurs de la région et prenez le temps de savourer chaque repas !**",
+      "stayIntro": "Pour que vous vous sentiez vraiment chez vous, nous avons rassemblé toutes les informations utiles pour un séjour serein et sans souci.",
+      "directionsBody": "Casinha D’Aldeia se trouve à Campo do Gerês, au cœur du parc national de Peneda-Gerês.\n\n**En avion**\n\n**Aéroport de Porto (OPO) :** l’aéroport international le plus proche, à environ 1 h 30 en voiture.\n\n**Aéroport de Lisbonne (LIS) :** à environ 4 h 30 à 5 h de route.\n\n**En voiture**\n\nTemps de trajet approximatifs : depuis Braga, 50 minutes ; depuis Porto, 1 h 30 ; depuis Lisbonne, 4 h 30 à 5 h. Nous vous conseillons d’utiliser votre GPS pour rejoindre directement la maison.\n\n**En transports en commun**\n\nBraga est desservie par le train et les bus. Des bus régionaux relient Braga à Campo do Gerês, mais les départs sont peu fréquents, surtout les week-ends et jours fériés. Vérifiez les horaires à l’avance. Une voiture de location facilite la découverte du parc.\n\n**Un dernier conseil**\n\nLa dernière partie du trajet emprunte des routes de montagne sinueuses offrant de très beaux paysages. Prenez votre temps et, si possible, arrivez avant la tombée de la nuit. Utilisez le bouton ci-dessous pour ouvrir l’itinéraire dans Google Maps.\n\n**Bon voyage ! Nous avons hâte de vous accueillir dans le parc national de Peneda-Gerês.**",
+      "directionsButton": "Itinéraire sur Google Maps",
+      "equicampoOffer": "Profitez de **15 % de réduction** sur toutes les activités Equicampo pendant votre séjour à Casinha D’Aldeia.",
+      "contactHeading": "Contacter votre hôte",
+      "contactIntro": "Nous sommes à proximité et toujours heureux de vous aider, de répondre à vos questions ou de vous accompagner pendant votre séjour.",
+      "contactCall": "Appeler",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Envoyer un e-mail",
+      "hostsHeading": "Découvrez Equicampo",
+      "hostsWebsiteButton": "Découvrir Equicampo",
+      "hostsBody": "Derrière Casinha D’Aldeia se trouve **Equicampo**, une entreprise fondée en 1995 au cœur du parc national de Peneda-Gerês, née d’une passion pour la nature, les chevaux et cette région si particulière.\n\nDepuis plus de 30 ans, nous partageons les beautés de la région avec nos visiteurs grâce aux balades à cheval, aux randonnées guidées, aux activités de plein air et à des expériences authentiques en montagne.\n\nCasinha D’Aldeia prolonge naturellement cet esprit d’hospitalité. Un lieu où se reposer, ralentir et découvrir le parc national de Peneda-Gerês à son rythme.\n\nNous sommes tout près et toujours disponibles pour rendre votre séjour inoubliable.",
+      "rulesBody": "Nous avons préparé Casinha D’Aldeia avec soin pour que chacun s’y sente bien accueilli.\n\nNous vous demandons simplement de prendre soin de ce lieu comme de votre propre maison, en respectant les équipements et la tranquillité du voisinage.\n\nAvant votre départ, merci d’éteindre les lumières, de fermer les fenêtres et de laisser la maison en bon état.\n\nEn cas d’imprévu ou de dysfonctionnement, prévenez-nous. Nous sommes là pour vous aider.\n\nMerci de contribuer à préserver ce petit lieu que nous aimons tant partager."
+    },
+    "de": {
+      "welcome": "Herzlich willkommen!",
+      "intro": "Manche Orte laden uns ein, einen Gang zurückzuschalten, die kleinen Dinge zu schätzen und die Freude daran wiederzuentdecken, sich Zeit zu lassen.\n\nWir hoffen, dass Casinha D’Aldeia einer dieser Orte für Sie sein wird.\n\n**Fühlen Sie sich wie zu Hause!**",
+      "guide": "Ihr Aufenthalt",
+      "discover": "Peneda-Gerês entdecken",
+      "experiences": "Erlebnisse",
+      "hosts": "Ihr Gastgeber",
+      "rules": "Hausregeln",
+      "food": "Kulinarik",
+      "guideBody": "Wir möchten, dass Sie sich vom ersten Moment an wie zu Hause fühlen.\n\n**Check-in:** ab 16:00 Uhr\n**Check-out:** bis 12:00 Uhr\n\nIn diesem Gästeführer finden Sie alle wichtigen Informationen für einen angenehmen Aufenthalt.",
+      "discoverBody": "Zwischen Bergen, Wäldern, Flüssen und Dörfern, in denen die Zeit etwas langsamer zu vergehen scheint, zeigt der Nationalpark Peneda-Gerês seinen besonderen Charme allen, die ihn mit Neugier erkunden.\n\nEntdecken Sie von Campo do Gerês aus die Natur und das reiche kulturelle Erbe dieser einzigartigen Region. Wandern Sie auf Bergpfaden, besuchen Sie traditionelle Dörfer und lassen Sie sich von den Landschaften überraschen.\n\nManche der schönsten Momente entstehen ganz ungeplant: auf einer Panoramastraße, bei einer unerwarteten Begegnung oder während einer Pause mitten in der Natur.\n\n**Entdecken Sie den Nationalpark Peneda-Gerês in Ihrem eigenen Tempo. Hinter jeder Ecke wartet etwas Neues.**",
+      "experiencesBody": "Der Nationalpark Peneda-Gerês lädt zu Abenteuern und neuen Erlebnissen ein. Zwischen Bergen, Flüssen und Wäldern gibt es unzählige Möglichkeiten, die Region zu erkunden und unvergessliche Erinnerungen zu sammeln.\n\nEntdecken Sie die Landschaft vom Pferderücken aus, folgen Sie malerischen Bergpfaden oder erleben Sie die Natur bei abwechslungsreichen Outdoor-Aktivitäten aus einer neuen Perspektive.\n\nOb Sie Abenteuer suchen, die Nähe zur Natur genießen oder etwas Besonderes mit Ihrer Familie unternehmen möchten: Wir haben einige Anregungen für einen unvergesslichen Aufenthalt zusammengestellt.\n\n**Wählen Sie Ihr nächstes Abenteuer und lassen Sie sich von Peneda-Gerês überraschen!**",
+      "foodBody": "Im Nationalpark Peneda-Gerês gehört auch der Genuss zum Entdecken. Bei Tisch werden regionale Traditionen durch typische Gerichte, lokale Produkte und die herzliche portugiesische Gastfreundschaft lebendig.\n\nVon traditionellen Restaurants bis zu gemütlichen Lokalen haben wir einige Empfehlungen zusammengestellt, damit Sie die Küche der Region genießen können – ob bei einem entspannten Mittagessen nach einem erlebnisreichen Vormittag oder bei einem ruhigen Abendessen.\n\n**Entdecken Sie die Aromen der Region und genießen Sie jede Mahlzeit ganz ohne Eile!**",
+      "stayIntro": "Damit Sie sich rundum wie zu Hause fühlen, haben wir alle wichtigen Informationen für einen entspannten und unbeschwerten Aufenthalt zusammengestellt.",
+      "directionsBody": "Casinha D’Aldeia liegt in Campo do Gerês, mitten im Nationalpark Peneda-Gerês.\n\n**Anreise mit dem Flugzeug**\n\n**Flughafen Porto (OPO):** der nächstgelegene internationale Flughafen, etwa 1 Stunde und 30 Minuten mit dem Auto entfernt.\n\n**Flughafen Lissabon (LIS):** etwa 4 Stunden und 30 Minuten bis 5 Stunden mit dem Auto entfernt.\n\n**Anreise mit dem Auto**\n\nUngefähre Fahrzeiten: ab Braga 50 Minuten, ab Porto 1 Stunde und 30 Minuten, ab Lissabon 4 Stunden und 30 Minuten bis 5 Stunden. Nutzen Sie am besten Ihr Navigationsgerät für die direkte Fahrt zur Unterkunft.\n\n**Anreise mit öffentlichen Verkehrsmitteln**\n\nBraga ist mit Zug und Fernbus erreichbar. Von dort fahren Regionalbusse nach Campo do Gerês, allerdings nur eingeschränkt, besonders an Wochenenden und Feiertagen. Prüfen Sie die Fahrpläne im Voraus. Mit einem Mietwagen lässt sich der Nationalpark wesentlich flexibler erkunden.\n\n**Ein kleiner Tipp für die Anreise**\n\nDer letzte Streckenabschnitt führt über kurvenreiche Bergstraßen mit wunderschönen Ausblicken. Lassen Sie sich Zeit und reisen Sie möglichst noch bei Tageslicht an. Über die Schaltfläche unten öffnen Sie die Route in Google Maps.\n\n**Gute Reise! Wir freuen uns darauf, Sie im Nationalpark Peneda-Gerês willkommen zu heißen.**",
+      "directionsButton": "Route in Google Maps anzeigen",
+      "equicampoOffer": "Während Ihres Aufenthalts in Casinha D’Aldeia erhalten Sie **15 % Rabatt** auf alle Aktivitäten von Equicampo.",
+      "contactHeading": "Gastgeber kontaktieren",
+      "contactIntro": "Wir sind ganz in der Nähe und helfen Ihnen jederzeit gerne bei Fragen oder Anliegen während Ihres Aufenthalts.",
+      "contactCall": "Anrufen",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "E-Mail senden",
+      "hostsHeading": "Entdecken Sie Equicampo",
+      "hostsWebsiteButton": "Equicampo kennenlernen",
+      "hostsBody": "Hinter Casinha D’Aldeia steht **Equicampo**, ein 1995 im Herzen des Nationalparks Peneda-Gerês gegründetes Unternehmen, entstanden aus der Leidenschaft für Natur, Pferde und diese besondere Region Portugals.\n\nSeit über 30 Jahren teilen wir die Schönheit der Region mit unseren Gästen – bei Ausritten, geführten Wanderungen, Outdoor-Abenteuern und authentischen Erlebnissen in den Bergen.\n\nCasinha D’Aldeia ist eine natürliche Fortsetzung dieser Gastfreundschaft: ein Ort zum Ausruhen, Entschleunigen und Entdecken des Nationalparks Peneda-Gerês im eigenen Tempo.\n\nWir sind immer in der Nähe und helfen Ihnen gerne dabei, Ihren Aufenthalt unvergesslich zu machen.",
+      "rulesBody": "Wir haben Casinha D’Aldeia mit viel Liebe vorbereitet, damit sich alle Gäste wohl und willkommen fühlen.\n\nBitte behandeln Sie die Unterkunft wie Ihr eigenes Zuhause und nehmen Sie Rücksicht auf die Einrichtung und die Ruhe unserer Nachbarn.\n\nBitte schalten Sie vor der Abreise das Licht aus, schließen Sie die Fenster und hinterlassen Sie das Haus in gutem Zustand.\n\nFalls etwas Unvorhergesehenes passiert oder nicht richtig funktioniert, sagen Sie uns bitte Bescheid. Wir helfen Ihnen gerne.\n\nVielen Dank, dass Sie uns helfen, diesen besonderen Ort zu bewahren."
     }
   },
   "places": [
@@ -100,16 +156,20 @@
           "description": "Uma aldeia de montanha onde as casas de granito, os espigueiros e os caminhos antigos preservam a identidade rural do Gerês. Um convite a descobrir a vida e as tradições locais."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Campo do Gerês",
+          "description": "A mountain village where granite houses, traditional granaries and ancient paths preserve the rural character of the region. Discover local life and traditions."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Campo do Gerês",
+          "description": "Una aldea de montaña donde las casas de granito, los hórreos y los antiguos caminos conservan la identidad rural de la región. Una invitación a descubrir sus tradiciones."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Campo do Gerês",
+          "description": "Un village de montagne où les maisons en granit, les greniers traditionnels et les anciens chemins préservent le caractère rural de la région. Une invitation à découvrir les traditions locales."
+        },
+        "de": {
+          "name": "Campo do Gerês",
+          "description": "Ein Bergdorf, in dem Granithäuser, traditionelle Kornspeicher und alte Wege den ländlichen Charakter der Region bewahren. Entdecken Sie das Leben und die Traditionen vor Ort."
         }
       }
     },
@@ -123,16 +183,20 @@
           "description": "Rodeada pelas montanhas da Serra Amarela, esta albufeira esconde a história de uma aldeia submersa. Um cenário de grande beleza, onde a paisagem e a memória se encontram."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Vilarinho das Furnas Reservoir",
+          "description": "Surrounded by the Serra Amarela mountains, this reservoir holds the story of a submerged village. A beautiful meeting place of landscape and memory."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Embalse de Vilarinho das Furnas",
+          "description": "Rodeado por las montañas de la Serra Amarela, este embalse guarda la historia de una aldea sumergida. Un hermoso encuentro entre paisaje y memoria."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Lac de Vilarinho das Furnas",
+          "description": "Entouré par les montagnes de la Serra Amarela, ce lac de retenue cache l’histoire d’un village englouti. Un paysage où nature et mémoire se rencontrent."
+        },
+        "de": {
+          "name": "Stausee Vilarinho das Furnas",
+          "description": "Umgeben von den Bergen der Serra Amarela erzählt dieser Stausee die Geschichte eines versunkenen Dorfes. Ein eindrucksvoller Ort, an dem Landschaft und Erinnerung zusammentreffen."
         }
       }
     },
@@ -146,16 +210,20 @@
           "description": "Uma das florestas mais emblemáticas do Parque Nacional, com carvalhos centenários, ribeiros cristalinos e vestígios da antiga via romana. Um lugar para descobrir sem pressas."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Albergaria Forest",
+          "description": "One of the most remarkable forests in Peneda-Gerês National Park, with centuries-old oak trees, crystal-clear streams and traces of an ancient Roman road. A place to explore at leisure."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Bosque de Albergaria",
+          "description": "Uno de los bosques más emblemáticos del Parque Nacional de Peneda-Gerês, con robles centenarios, arroyos cristalinos y vestigios de una antigua calzada romana."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Forêt d’Albergaria",
+          "description": "L’une des forêts les plus emblématiques du parc national de Peneda-Gerês, avec ses chênes centenaires, ses ruisseaux limpides et les vestiges d’une ancienne voie romaine."
+        },
+        "de": {
+          "name": "Albergaria-Wald",
+          "description": "Einer der eindrucksvollsten Wälder im Nationalpark Peneda-Gerês mit jahrhundertealten Eichen, klaren Bächen und Spuren einer alten Römerstraße."
         }
       }
     },
@@ -169,16 +237,20 @@
           "description": "Percorra vestígios de uma antiga estrada romana que ligava Braga a Astorga. Entre marcos miliários e paisagens de montanha, descubra quase dois mil anos de história."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Roman Road (Geira)",
+          "description": "Follow the remains of the Roman road that once connected Braga to Astorga. Discover almost two thousand years of history among milestones and mountain scenery."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Calzada romana de Geira",
+          "description": "Recorran los restos de la antigua vía romana que unía Braga con Astorga. Casi dos mil años de historia entre miliarios y paisajes de montaña."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Voie romaine de Geira",
+          "description": "Suivez les traces de l’ancienne voie romaine reliant Braga à Astorga. Près de deux mille ans d’histoire entre bornes milliaires et paysages de montagne."
+        },
+        "de": {
+          "name": "Römerstraße Geira",
+          "description": "Folgen Sie den Überresten der Römerstraße, die einst Braga mit Astorga verband. Entdecken Sie fast zweitausend Jahre Geschichte zwischen Meilensteinen und Berglandschaften."
         }
       }
     },
@@ -192,16 +264,20 @@
           "description": "Na fronteira com Espanha, a estrada atravessa uma paisagem impressionante de montanhas, floresta e cursos de água. Um dos percursos panorâmicos mais bonitos da região."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Portela do Homem Waterfall",
+          "description": "Near the Spanish border, the road winds through dramatic mountains, forests and streams. One of the region’s most scenic routes."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Cascada de Portela do Homem",
+          "description": "Cerca de la frontera española, la carretera atraviesa montañas, bosques y cursos de agua. Una de las rutas panorámicas más bonitas de la región."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Cascade de Portela do Homem",
+          "description": "Près de la frontière espagnole, la route traverse montagnes, forêts et cours d’eau. L’un des plus beaux itinéraires panoramiques de la région."
+        },
+        "de": {
+          "name": "Wasserfall Portela do Homem",
+          "description": "Nahe der spanischen Grenze führt die Straße durch eindrucksvolle Berge, Wälder und Wasserläufe. Eine der schönsten Panoramastrecken der Region."
         }
       }
     },
@@ -215,16 +291,20 @@
           "description": "Conheça a história da antiga aldeia comunitária de Vilarinho da Furna, submersa pela barragem. Um lugar onde objetos, fotografias e memórias preservam uma forma de vida singular."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Vilarinho da Furna Ethnographic Museum",
+          "description": "Discover the story of the former communal village of Vilarinho da Furna, submerged by the reservoir. Objects, photographs and memories preserve a unique way of life."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Museo Etnográfico de Vilarinho da Furna",
+          "description": "Descubran la historia de la antigua aldea comunitaria de Vilarinho da Furna, sumergida por el embalse. Objetos, fotografías y recuerdos conservan una forma de vida singular."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Musée ethnographique de Vilarinho da Furna",
+          "description": "Découvrez l’histoire de l’ancien village communautaire de Vilarinho da Furna, englouti sous les eaux du barrage. Objets et photographies témoignent d’un mode de vie unique."
+        },
+        "de": {
+          "name": "Ethnografisches Museum Vilarinho da Furna",
+          "description": "Erfahren Sie mehr über das ehemalige Gemeinschaftsdorf Vilarinho da Furna, das im Stausee versank. Gegenstände, Fotografien und Erinnerungen bewahren eine besondere Lebensweise."
         }
       }
     },
@@ -238,16 +318,20 @@
           "description": "Um dos miradouros mais impressionantes do Gerês, com vistas panorâmicas sobre a albufeira da Caniçada e as montanhas envolventes. Ideal para contemplar a paisagem."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Pedra Bela Viewpoint",
+          "description": "One of the region’s most spectacular viewpoints, with sweeping views of the Caniçada reservoir and surrounding mountains. Perfect for taking in the scenery."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Mirador de Pedra Bela",
+          "description": "Uno de los miradores más espectaculares de la región, con vistas panorámicas del embalse de Caniçada y las montañas. Ideal para contemplar el paisaje."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Belvédère de Pedra Bela",
+          "description": "L’un des plus beaux points de vue de la région, offrant un panorama sur le lac de Caniçada et les montagnes environnantes."
+        },
+        "de": {
+          "name": "Aussichtspunkt Pedra Bela",
+          "description": "Einer der schönsten Aussichtspunkte der Region mit weitem Blick über den Caniçada-Stausee und die umliegenden Berge."
         }
       }
     },
@@ -261,16 +345,20 @@
           "description": "Entre rochas graníticas e vegetação serrana, a água desce em sucessivas quedas, criando um dos cenários naturais mais conhecidos do Gerês. Especialmente bonita após períodos de chuva."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Arado Waterfall",
+          "description": "Water cascades over granite rocks among mountain vegetation, creating one of the region’s best-known natural sights. Particularly beautiful after rainfall."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Cascada de Arado",
+          "description": "Entre rocas de granito y vegetación de montaña, el agua cae en sucesivos saltos. Especialmente bonita después de la lluvia."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Cascade d’Arado",
+          "description": "L’eau dévale les rochers de granit au milieu de la végétation montagnarde. Un site particulièrement beau après la pluie."
+        },
+        "de": {
+          "name": "Arado-Wasserfall",
+          "description": "Zwischen Granitfelsen und Bergvegetation stürzt das Wasser in mehreren Kaskaden hinab. Besonders schön nach Regenfällen."
         }
       }
     },
@@ -284,16 +372,20 @@
           "description": "Uma pequena aldeia de montanha, com casas tradicionais de granito e paisagens rurais que convidam a abrandar. Um excelente lugar para conhecer o lado mais autêntico do Gerês."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Brufe Village",
+          "description": "A small mountain village with traditional granite houses and peaceful rural landscapes. A lovely place to discover the authentic character of the region."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Aldea de Brufe",
+          "description": "Una pequeña aldea de montaña con casas tradicionales de granito y paisajes rurales que invitan a bajar el ritmo."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Village de Brufe",
+          "description": "Un petit village de montagne aux maisons traditionnelles en granit et aux paysages ruraux paisibles, idéal pour découvrir la région authentique."
+        },
+        "de": {
+          "name": "Dorf Brufe",
+          "description": "Ein kleines Bergdorf mit traditionellen Granithäusern und ruhigen ländlichen Landschaften – ideal, um die ursprüngliche Seite der Region kennenzulernen."
         }
       }
     }
@@ -311,15 +403,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Equi Campo Snack-Bar",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Equi Campo Snack-Bar",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Equi Campo Snack-Bar",
+          "description": ""
+        },
+        "de": {
+          "name": "Equi Campo Snack-Bar",
           "description": ""
         }
       },
@@ -339,15 +435,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Restaurante Cantinho do Antigamente",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Restaurante Cantinho do Antigamente",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Restaurante Cantinho do Antigamente",
+          "description": ""
+        },
+        "de": {
+          "name": "Restaurante Cantinho do Antigamente",
           "description": ""
         }
       },
@@ -367,15 +467,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Restaurante Cerdeira",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Restaurante Cerdeira",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Restaurante Cerdeira",
+          "description": ""
+        },
+        "de": {
+          "name": "Restaurante Cerdeira",
           "description": ""
         }
       },
@@ -395,15 +499,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Restaurante O Abocanhado",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Restaurante O Abocanhado",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Restaurante O Abocanhado",
+          "description": ""
+        },
+        "de": {
+          "name": "Restaurante O Abocanhado",
           "description": ""
         }
       },
@@ -423,15 +531,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Restaurante Turismo",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Restaurante Turismo",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Restaurante Turismo",
+          "description": ""
+        },
+        "de": {
+          "name": "Restaurante Turismo",
           "description": ""
         }
       },
@@ -451,15 +563,19 @@
           "description": ""
         },
         "en": {
-          "name": "",
+          "name": "Restaurante O Encontro",
           "description": ""
         },
         "es": {
-          "name": "",
+          "name": "Restaurante O Encontro",
           "description": ""
         },
         "fr": {
-          "name": "",
+          "name": "Restaurante O Encontro",
+          "description": ""
+        },
+        "de": {
+          "name": "Restaurante O Encontro",
           "description": ""
         }
       },
@@ -480,16 +596,20 @@
           "description": "Descubra o Gerês a cavalo, por trilhos de montanha e paisagens de grande beleza. Uma experiência acompanhada por guias experientes, com percursos adaptados ao nível dos participantes."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Horse Riding",
+          "description": "Explore the landscapes of Peneda-Gerês National Park on horseback, along beautiful mountain trails. Experienced guides accompany rides suited to different ability levels."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Paseos a caballo",
+          "description": "Descubran los paisajes del Parque Nacional de Peneda-Gerês a caballo, por hermosos senderos de montaña. Guías experimentados acompañan recorridos adaptados al nivel de cada participante."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Balades à cheval",
+          "description": "Découvrez les paysages du parc national de Peneda-Gerês à cheval, sur de magnifiques sentiers de montagne. Des guides expérimentés accompagnent des parcours adaptés au niveau de chacun."
+        },
+        "de": {
+          "name": "Ausritte",
+          "description": "Entdecken Sie die Landschaften des Nationalparks Peneda-Gerês vom Pferderücken aus auf wunderschönen Bergpfaden. Erfahrene Guides begleiten Ausritte für unterschiedliche Erfahrungsstufen."
         }
       },
       "company": "Equicampo, Turismo de Montanha",
@@ -508,16 +628,20 @@
           "description": "Uma primeira experiência equestre, ideal para crianças e para quem nunca montou a cavalo. Um pequeno passeio dentro da propriedade, com acompanhamento próximo de um monitor."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "First Horse Riding Experience",
+          "description": "A gentle introduction to horse riding, ideal for children and first-time riders. A short ride on the property with close guidance from an instructor."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Primera experiencia a caballo",
+          "description": "Una introducción a la equitación, ideal para niños y quienes nunca han montado. Un paseo corto dentro de la propiedad, acompañado por un monitor."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Première expérience à cheval",
+          "description": "Une initiation douce à l’équitation, idéale pour les enfants et les débutants. Une courte balade sur la propriété, accompagnée par un moniteur."
+        },
+        "de": {
+          "name": "Erste Reiterfahrung",
+          "description": "Ein sanfter Einstieg ins Reiten, ideal für Kinder und alle, die noch nie auf einem Pferd saßen. Ein kurzer Ritt auf dem Gelände mit persönlicher Betreuung."
         }
       },
       "company": "Equicampo, Turismo de Montanha",
@@ -536,16 +660,20 @@
           "description": "Uma aventura entre as árvores, com obstáculos e desafios em altura. Uma forma divertida de experimentar a natureza de uma perspetiva diferente, em família ou com amigos."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Treetop Adventure Courses",
+          "description": "An adventure among the trees, with elevated obstacles and challenges. A fun way to experience nature from a new perspective with family or friends."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Circuitos de aventura entre árboles",
+          "description": "Una aventura entre los árboles con obstáculos y desafíos en altura. Una forma divertida de disfrutar de la naturaleza en familia o con amigos."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Parcours accrobranche",
+          "description": "Une aventure dans les arbres, avec obstacles et défis en hauteur. Une manière ludique de découvrir la nature en famille ou entre amis."
+        },
+        "de": {
+          "name": "Hochseilparcours",
+          "description": "Ein Abenteuer zwischen den Bäumen mit Hindernissen und Herausforderungen in luftiger Höhe. Naturspaß für Familien und Freunde."
         }
       },
       "company": "Equicampo, Turismo de Montanha",
@@ -564,16 +692,20 @@
           "description": "Para quem procura emoção e novos desafios, uma experiência de aventura em ambiente natural, com atividades em rocha e vistas panorâmicas sobre a serra."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Adventure Circuit",
+          "description": "For those looking for excitement and a new challenge: an outdoor adventure with rock-based activities and panoramic mountain views."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Circuito de aventura",
+          "description": "Para quienes buscan emoción y nuevos desafíos: actividades de aventura en un entorno natural, entre rocas y vistas panorámicas de la montaña."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Parcours aventure",
+          "description": "Pour les amateurs de sensations et de nouveaux défis : des activités de plein air sur rocher avec des vues panoramiques sur les montagnes."
+        },
+        "de": {
+          "name": "Abenteuerparcours",
+          "description": "Für alle, die Nervenkitzel und neue Herausforderungen suchen: Outdoor-Aktivitäten am Fels mit herrlichem Blick auf die Berge."
         }
       },
       "company": "Equicampo, Turismo de Montanha",
@@ -592,16 +724,20 @@
           "description": "Explore o Gerês a pé, por trilhos que revelam a natureza, a história e as tradições da região. Uma oportunidade para conhecer a serra para além dos caminhos habituais."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Guided Walks",
+          "description": "Explore Peneda-Gerês National Park on foot along trails that reveal the region’s nature, history and traditions. Discover places beyond the usual routes."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Senderismo guiado",
+          "description": "Exploren a pie el Parque Nacional de Peneda-Gerês por senderos que revelan la naturaleza, la historia y las tradiciones de la región."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Randonnées guidées",
+          "description": "Explorez à pied le parc national de Peneda-Gerês sur des sentiers qui révèlent la nature, l’histoire et les traditions de la région."
+        },
+        "de": {
+          "name": "Geführte Wanderungen",
+          "description": "Erkunden Sie den Nationalpark Peneda-Gerês zu Fuß auf Wegen, die Natur, Geschichte und Traditionen der Region erlebbar machen."
         }
       },
       "company": "Equicampo, Turismo de Montanha",
@@ -620,16 +756,20 @@
           "description": "Explore as águas tranquilas da Caniçada ao seu ritmo, num kayak individual ou duplo. Uma experiência para descobrir pequenas enseadas e apreciar as montanhas a partir de uma perspetiva diferente."
         },
         "en": {
-          "name": "",
-          "description": ""
+          "name": "Kayaking on the Caniçada Reservoir",
+          "description": "Explore the calm waters of Caniçada at your own pace in a single or double kayak. Discover secluded coves and admire the mountains from the water."
         },
         "es": {
-          "name": "",
-          "description": ""
+          "name": "Piragüismo en el embalse de Caniçada",
+          "description": "Exploren las tranquilas aguas de Caniçada a su ritmo, en kayak individual o doble. Descubran pequeñas calas y contemplen las montañas desde el agua."
         },
         "fr": {
-          "name": "",
-          "description": ""
+          "name": "Kayak sur le lac de Caniçada",
+          "description": "Explorez les eaux calmes de Caniçada à votre rythme, en kayak simple ou double. Découvrez de petites criques et admirez les montagnes depuis l’eau."
+        },
+        "de": {
+          "name": "Kajakfahren auf dem Caniçada-Stausee",
+          "description": "Erkunden Sie das ruhige Wasser des Caniçada-Stausees in Ihrem eigenen Tempo im Einer- oder Zweierkajak. Entdecken Sie versteckte Buchten und genießen Sie die Bergkulisse."
         }
       },
       "company": ""
@@ -655,15 +795,19 @@
         },
         "en": {
           "title": "Check-in and Check-out",
-          "body": ""
+          "body": "Choose between self check-in / self check-out or an in-person welcome at Equicampo headquarters. Contact us to arrange the option that suits you best."
         },
         "es": {
-          "title": "Check-in y Check-out",
-          "body": ""
+          "title": "Entrada y salida",
+          "body": "Pueden elegir entre entrada y salida autónomas o atención presencial en la sede de Equicampo. Contáctennos para acordar la opción más cómoda."
         },
         "fr": {
           "title": "Arrivée et départ",
-          "body": ""
+          "body": "Choisissez entre une arrivée et un départ autonomes ou un accueil en personne au siège d’Equicampo. Contactez-nous pour convenir de la solution qui vous convient."
+        },
+        "de": {
+          "title": "Check-in und Check-out",
+          "body": "Sie können selbstständig ein- und auschecken oder sich persönlich am Standort von Equicampo empfangen lassen. Kontaktieren Sie uns, um die passende Möglichkeit zu vereinbaren."
         }
       },
       "buttonLabel": "WhatsApp",
@@ -682,15 +826,19 @@
         },
         "en": {
           "title": "Parking",
-          "body": ""
+          "body": "You may park briefly in front of the house to unload your luggage.\n\nFor longer stays, please use the public car park at the entrance to the village, the closest one to Casinha D’Aldeia."
         },
         "es": {
           "title": "Aparcamiento",
-          "body": ""
+          "body": "Pueden aparcar brevemente frente a la casa para descargar el equipaje.\n\nPara estancias más largas, recomendamos utilizar el aparcamiento público situado a la entrada de la aldea, el más cercano a Casinha D’Aldeia."
         },
         "fr": {
           "title": "Stationnement",
-          "body": ""
+          "body": "Vous pouvez vous garer brièvement devant la maison pour décharger vos bagages.\n\nPour un stationnement prolongé, nous vous recommandons le parking public à l’entrée du village, le plus proche de Casinha D’Aldeia."
+        },
+        "de": {
+          "title": "Parken",
+          "body": "Zum Ausladen Ihres Gepäcks können Sie kurz vor dem Haus halten.\n\nFür längeres Parken empfehlen wir den öffentlichen Parkplatz am Dorfeingang, der Casinha D’Aldeia am nächsten liegt."
         }
       },
       "buttonLabel": "Obter direções · Parque de Estacionamento",
@@ -709,15 +857,19 @@
         },
         "en": {
           "title": "Wi-Fi",
-          "body": ""
+          "body": "You will find the Wi-Fi network details below."
         },
         "es": {
           "title": "Wi-Fi",
-          "body": ""
+          "body": "Encontrarán los datos de la red Wi-Fi a continuación."
         },
         "fr": {
           "title": "Wi-Fi",
-          "body": ""
+          "body": "Les informations de connexion au Wi-Fi figurent ci-dessous."
+        },
+        "de": {
+          "title": "WLAN",
+          "body": "Die Zugangsdaten für das WLAN finden Sie unten."
         }
       },
       "buttonLabel": "",
@@ -736,15 +888,19 @@
         },
         "en": {
           "title": "Fireplace and Firewood",
-          "body": ""
+          "body": "We provide firewood for the fireplace. If you need more, please contact us. Never leave a lit fire unattended."
         },
         "es": {
-          "title": "Chimenea y Leña",
-          "body": ""
+          "title": "Chimenea y leña",
+          "body": "Proporcionamos leña para la chimenea. Si necesitan más, contáctennos. Nunca dejen el fuego encendido sin vigilancia."
         },
         "fr": {
-          "title": "Cheminée et bois",
-          "body": ""
+          "title": "Cheminée et bois de chauffage",
+          "body": "Nous fournissons du bois pour la cheminée. Si vous en avez besoin davantage, contactez-nous. Ne laissez jamais un feu allumé sans surveillance."
+        },
+        "de": {
+          "title": "Kamin und Brennholz",
+          "body": "Wir stellen Brennholz für den Kamin bereit. Wenn Sie mehr benötigen, kontaktieren Sie uns bitte. Lassen Sie das Feuer niemals unbeaufsichtigt brennen."
         }
       },
       "buttonLabel": "",
@@ -766,11 +922,15 @@
           "body": ""
         },
         "es": {
-          "title": "Guía de los equipos",
+          "title": "Guía de electrodomésticos",
           "body": ""
         },
         "fr": {
           "title": "Guide des équipements",
+          "body": ""
+        },
+        "de": {
+          "title": "Geräteanleitungen",
           "body": ""
         }
       },
@@ -793,11 +953,15 @@
           "body": ""
         },
         "es": {
-          "title": "Basura y Reciclaje",
+          "title": "Basura y reciclaje",
           "body": ""
         },
         "fr": {
           "title": "Déchets et recyclage",
+          "body": ""
+        },
+        "de": {
+          "title": "Müll und Recycling",
           "body": ""
         }
       },
@@ -817,15 +981,19 @@
         },
         "en": {
           "title": "House Rules",
-          "body": ""
+          "body": "We have prepared Casinha D’Aldeia with care so that every guest feels comfortable and welcome.\n\nPlease treat this place as you would your own home, respecting the house, its equipment, and the peace of our neighbours.\n\nBefore leaving, please switch off the lights, close the windows, and leave the house in good condition.\n\nIf anything unexpected happens or something is not working properly, let us know. We are here to help.\n\nThank you for helping us look after this little place we love to share."
         },
         "es": {
           "title": "Normas de la casa",
-          "body": ""
+          "body": "Hemos preparado Casinha D’Aldeia con cariño para que todos nuestros huéspedes se sientan cómodos y bienvenidos.\n\nLes pedimos que cuiden este lugar como si fuera su casa, respetando las instalaciones y la tranquilidad de los vecinos.\n\nAntes de salir, comprueben que las luces estén apagadas, las ventanas cerradas y la casa en buenas condiciones.\n\nSi surge algún imprevisto o algo no funciona correctamente, avísennos. Estamos aquí para ayudar.\n\nGracias por ayudarnos a cuidar este pequeño lugar que tanto nos gusta compartir."
         },
         "fr": {
           "title": "Règles de la maison",
-          "body": ""
+          "body": "Nous avons préparé Casinha D’Aldeia avec soin pour que chacun s’y sente bien accueilli.\n\nNous vous demandons simplement de prendre soin de ce lieu comme de votre propre maison, en respectant les équipements et la tranquillité du voisinage.\n\nAvant votre départ, merci d’éteindre les lumières, de fermer les fenêtres et de laisser la maison en bon état.\n\nEn cas d’imprévu ou de dysfonctionnement, prévenez-nous. Nous sommes là pour vous aider.\n\nMerci de contribuer à préserver ce petit lieu que nous aimons tant partager."
+        },
+        "de": {
+          "title": "Hausregeln",
+          "body": "Wir haben Casinha D’Aldeia mit viel Liebe vorbereitet, damit sich alle Gäste wohl und willkommen fühlen.\n\nBitte behandeln Sie die Unterkunft wie Ihr eigenes Zuhause und nehmen Sie Rücksicht auf die Einrichtung und die Ruhe unserer Nachbarn.\n\nBitte schalten Sie vor der Abreise das Licht aus, schließen Sie die Fenster und hinterlassen Sie das Haus in gutem Zustand.\n\nFalls etwas Unvorhergesehenes passiert oder nicht richtig funktioniert, sagen Sie uns bitte Bescheid. Wir helfen Ihnen gerne.\n\nVielen Dank, dass Sie uns helfen, diesen besonderen Ort zu bewahren."
         }
       },
       "buttonLabel": "",
@@ -844,15 +1012,19 @@
         },
         "en": {
           "title": "Safety and Emergencies",
-          "body": ""
+          "body": "For your safety, the house has a fire extinguisher, a fire blanket and a first-aid kit.\n\nPlease familiarise yourself with their locations when you arrive.\n\nIn an emergency, call 112, the European emergency number, available 24 hours a day.\n\nIf you notice anything that could affect safety or the proper functioning of the house, please contact us."
         },
         "es": {
-          "title": "Seguridad y Emergencias",
-          "body": ""
+          "title": "Seguridad y emergencias",
+          "body": "Para su seguridad, la casa dispone de un extintor, una manta ignífuga y un botiquín de primeros auxilios.\n\nLes recomendamos localizar estos elementos a su llegada.\n\nEn caso de emergencia, llamen al 112, el número europeo de emergencias, disponible las 24 horas.\n\nSi detectan algún problema de seguridad o funcionamiento, contáctennos."
         },
         "fr": {
           "title": "Sécurité et urgences",
-          "body": ""
+          "body": "Pour votre sécurité, la maison dispose d’un extincteur, d’une couverture anti-feu et d’une trousse de premiers secours.\n\nNous vous conseillons de repérer ces équipements à votre arrivée.\n\nEn cas d’urgence, appelez le 112, numéro européen d’urgence accessible 24 h/24.\n\nSi vous constatez un problème de sécurité ou de fonctionnement, contactez-nous."
+        },
+        "de": {
+          "title": "Sicherheit und Notfälle",
+          "body": "Zu Ihrer Sicherheit ist das Haus mit einem Feuerlöscher, einer Löschdecke und einem Erste-Hilfe-Set ausgestattet.\n\nBitte machen Sie sich bei der Ankunft mit den Standorten vertraut.\n\nIm Notfall wählen Sie 112, die rund um die Uhr erreichbare europäische Notrufnummer.\n\nFalls Sie ein Sicherheitsproblem oder eine Störung bemerken, kontaktieren Sie uns bitte."
         }
       },
       "buttonLabel": "",
