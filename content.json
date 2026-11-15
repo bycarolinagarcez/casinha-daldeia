@@ -22,7 +22,9 @@
       "experiencesBody": "O Gerês é um lugar para descobrir, mas também para sentir.\n\nPara quem gosta de aventura, há trilhos para explorar, percursos pela natureza e paisagens que recompensam cada caminhada. Para quem prefere dias tranquilos, há miradouros, património histórico, sabores regionais e o prazer de simplesmente não ter pressa.\n\nSeja qual for a sua forma de viajar, aproveite para conhecer a região para além dos lugares mais conhecidos.\n\nE lembre-se: por vezes, a melhor experiência é regressar à casa depois de um dia de descobertas e desfrutar da tranquilidade da aldeia.",
       "rulesBody": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar.",
       "food": "Gastronomia",
-      "equicampoOffer": "Aproveite 15% de desconto em todas as atividades da Equicampo durante a sua estadia na Casinha D’Aldeia."
+      "equicampoOffer": "Aproveite 15% de desconto em todas as atividades da Equicampo durante a sua estadia na Casinha D’Aldeia.",
+      "directionsBody": "A Casinha D’Aldeia encontra-se em Campo do Gerês, no concelho de Terras de Bouro, em pleno Parque Nacional da Peneda-Gerês.\n\nDe carro\n\nA partir de Braga\n\nSiga pela EN101 em direção a Vila Verde. Depois de atravessar o rio Cávado, continue pela EN205-3 em direção a Terras de Bouro. A partir daí, siga as indicações para Covide e Campo do Gerês.\n\nA partir do Porto\n\nSiga pela autoestrada A3 em direção a Braga e saia em Braga Sul (Celeirós). Depois, siga o percurso indicado acima, passando por Vila Verde, Terras de Bouro e Covide até Campo do Gerês.\n\nA partir de Lisboa \n\nSiga pela A1 em direção ao Porto e depois pela A3 até Braga. A partir de Braga, continue por Vila Verde, Terras de Bouro e Covide até Campo do Gerês.\n\nDe transportes públicos\n\nÉ possível chegar de comboio ou autocarro a Braga. A partir da central de camionagem de Braga, existem ligações rodoviárias para Campo do Gerês. Recomendamos consultar antecipadamente os horários, uma vez que as ligações são limitadas.\n\nUma última dica\n\nOs últimos quilómetros percorrem estradas de montanha, com algumas curvas e paisagens muito bonitas. Recomendamos uma condução tranquila e, sempre que possível, chegar ainda com luz natural.\n\nPara facilitar a viagem, utilize o botão abaixo e siga as indicações do GPS diretamente até à Casinha D’Aldeia.\n\nBoa viagem! Esperamos por si no Gerês.",
+      "directionsButton": "Obter direções no Google Maps"
     },
     "en": {
       "welcome": "Welcome!",
@@ -37,7 +39,9 @@
       "experiencesBody": "Discover local experiences.",
       "rulesBody": "House rules coming soon.",
       "food": "Food & Dining",
-      "equicampoOffer": "Enjoy 15% off all Equicampo activities during your stay at Casinha D’Aldeia."
+      "equicampoOffer": "Enjoy 15% off all Equicampo activities during your stay at Casinha D’Aldeia.",
+      "directionsBody": "",
+      "directionsButton": "Get directions"
     },
     "es": {
       "welcome": "¡Bienvenidos!",
@@ -52,7 +56,9 @@
       "experiencesBody": "Descubra las experiencias de la región.",
       "rulesBody": "Normas próximamente.",
       "food": "Gastronomía",
-      "equicampoOffer": "Disfruta de un 15 % de descuento en todas las actividades de Equicampo durante tu estancia en Casinha D’Aldeia."
+      "equicampoOffer": "Disfruta de un 15 % de descuento en todas las actividades de Equicampo durante tu estancia en Casinha D’Aldeia.",
+      "directionsBody": "",
+      "directionsButton": "Cómo llegar"
     },
     "fr": {
       "welcome": "Bienvenue !",
@@ -67,7 +73,9 @@
       "experiencesBody": "Découvrez les expériences de la région.",
       "rulesBody": "Règles à venir.",
       "food": "Gastronomie",
-      "equicampoOffer": "Profitez de 15 % de réduction sur toutes les activités Equicampo pendant votre séjour à Casinha D’Aldeia."
+      "equicampoOffer": "Profitez de 15 % de réduction sur toutes les activités Equicampo pendant votre séjour à Casinha D’Aldeia.",
+      "directionsBody": "",
+      "directionsButton": "Itinéraire"
     }
   },
   "places": [
