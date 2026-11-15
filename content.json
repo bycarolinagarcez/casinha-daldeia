@@ -38,20 +38,21 @@
     },
     "en": {
       "welcome": "Welcome!",
-      "intro": "We are delighted to welcome you. Make yourself at home and enjoy your stay.",
+      "intro": "Some places invite us to slow down, appreciate the little things, and rediscover the simple pleasure of taking our time.\n\nWe hope Casinha D’Aldeia will be one of them.\n\nMake yourselves at home!",
       "guide": "House Guide",
       "discover": "Explore Gerês",
       "experiences": "Experiences",
       "hosts": "Your Hosts",
       "rules": "House Rules",
       "guideBody": "House information coming soon.",
-      "discoverBody": "Our local recommendations are coming soon.",
-      "experiencesBody": "Discover local experiences.",
+      "discoverBody": "Surrounded by mountains, forests, rivers, and villages where time seems to move a little more slowly, Peneda-Gerês National Park reveals its charms to those who take the time to explore.\n\nFrom Campo do Gerês, discover the natural beauty and rich heritage of this remarkable region. Wander along mountain trails, explore traditional villages, and let yourself be surprised by the breathtaking landscapes around every corner.\n\nSome of the most memorable moments are the ones you never planned: a scenic drive, an unexpected conversation, or simply stopping to take in the beauty of nature.\n\n**Explore Peneda-Gerês National Park at your own pace. There’s always another hidden gem waiting to be discovered.**",
+      "experiencesBody": "Peneda-Gerês National Park is an invitation to adventure and new experiences. With its mountains, rivers, and forests, it offers countless ways to explore the region and create unforgettable memories.\n\nDiscover its breathtaking landscapes on horseback, follow scenic mountain trails, or enjoy outdoor activities that allow you to experience the park from a different perspective.\n\nWhether you're seeking the thrill of adventure, a chance to reconnect with nature, or a memorable experience to share with family, we've gathered a few suggestions to make your stay even more special.\n\n**Choose your next adventure and let Peneda-Gerês National Park surprise you!**",
       "rulesBody": "House rules coming soon.",
       "food": "Food & Dining",
       "equicampoOffer": "Enjoy 15% off all Equicampo activities during your stay at Casinha D’Aldeia.",
-      "directionsBody": "",
-      "directionsButton": "Get directions"
+      "directionsBody": "**__Arriving by plane__**\n\n**Porto Airport (OPO)**\n\nFrancisco Sá Carneiro Airport is the closest international airport to Casinha D’Aldeia, approximately 1 hour and 30 minutes away by car. It is the most convenient option for guests travelling from abroad.\n\n**Lisbon Airport (LIS)**\n\nLisbon Airport is approximately 4 hours and 30 minutes to 5 hours away by car.\n\n**__Travelling by car__**\n\nCasinha D’Aldeia is located in Campo do Gerês, a traditional village in the heart of Peneda-Gerês National Park.\n\nApproximate driving times:\n\n- From **Braga**: 50 minutes\n- From **Porto**: 1 hour 30 minutes\n- From **Lisbon**: 4 hours 30 minutes to 5 hours\n\nWe recommend using Google Maps for the most convenient route directly to the house.\n\n**__Travelling by public transport__**\n\nBraga is the main transport hub for reaching Campo do Gerês, with train and bus connections from Porto and other Portuguese cities.\n\nRegional buses connect Braga to Campo do Gerês, although services are limited, particularly at weekends and on public holidays.\n\nWe recommend renting a car for greater flexibility, especially if you wish to explore the National Park and its many attractions.\n\n**A little tip before you arrive**\n\nThe final part of your journey takes you along winding mountain roads, with beautiful views of the surrounding landscape. Take your time, enjoy the scenery and, if possible, plan to arrive before sunset.\n\nSimply use the button below to open Google Maps and navigate directly to Casinha D’Aldeia.\n\n**Safe travels! We look forward to welcoming you to Peneda-Gerês National Park.**",
+      "directionsButton": "Get directions",
+      "stayIntro": "To help you feel right at home, we’ve gathered everything you need to know for a comfortable, relaxing, and worry-free stay."
     },
     "es": {
       "welcome": "¡Bienvenidos!",
