@@ -34,7 +34,9 @@
       "contactWhatsapp": "WhatsApp",
       "contactEmail": "Enviar e-mail",
       "hostsWebsiteButton": "Conhecer a Equicampo",
-      "hostsHeading": "Conheça a Equicampo"
+      "hostsHeading": "Conheça a Equicampo",
+      "checkinValue": "A partir das 16h",
+      "checkoutValue": "Até às 12h"
     },
     "en": {
       "welcome": "Welcome!",
@@ -61,7 +63,9 @@
       "hostsHeading": "Discover Equicampo",
       "hostsWebsiteButton": "Discover Equicampo",
       "hostsBody": "Behind Casinha D’Aldeia is **Equicampo**, a company founded in 1995 in the heart of Peneda-Gerês National Park, born from a passion for nature, horses, and this remarkable corner of Portugal.\n\nFor over 30 years, we’ve been sharing the beauty of the region with our visitors through horseback riding, guided walks, outdoor adventures, and experiences that offer an authentic way to discover the mountains and landscapes around us.\n\nCasinha D’Aldeia is a natural extension of that same spirit of hospitality. A place to rest, slow down, and experience Peneda-Gerês National Park at your own pace.\n\nWe’re always close by and happy to help make your stay a memorable one.",
-      "rulesBody": "We have prepared Casinha D’Aldeia with care so that every guest feels comfortable and welcome.\n\nPlease treat this place as you would your own home, respecting the house, its equipment, and the peace of our neighbours.\n\nBefore leaving, please switch off the lights, close the windows, and leave the house in good condition.\n\nIf anything unexpected happens or something is not working properly, let us know. We are here to help.\n\nThank you for helping us look after this little place we love to share."
+      "rulesBody": "We have prepared Casinha D’Aldeia with care so that every guest feels comfortable and welcome.\n\nPlease treat this place as you would your own home, respecting the house, its equipment, and the peace of our neighbours.\n\nBefore leaving, please switch off the lights, close the windows, and leave the house in good condition.\n\nIf anything unexpected happens or something is not working properly, let us know. We are here to help.\n\nThank you for helping us look after this little place we love to share.",
+      "checkinValue": "From 4:00 pm",
+      "checkoutValue": "By 12:00 noon"
     },
     "es": {
       "welcome": "¡Bienvenidos!",
@@ -88,7 +92,9 @@
       "hostsHeading": "Descubran Equicampo",
       "hostsWebsiteButton": "Conocer Equicampo",
       "hostsBody": "Detrás de Casinha D’Aldeia está **Equicampo**, una empresa fundada en 1995 en el corazón del Parque Nacional de Peneda-Gerês, nacida de la pasión por la naturaleza, los caballos y esta región tan especial.\n\nDesde hace más de 30 años compartimos lo mejor de la región con quienes nos visitan mediante paseos a caballo, rutas de senderismo, actividades de aventura y experiencias que permiten descubrir la montaña de forma auténtica.\n\nCasinha D’Aldeia es una prolongación de ese mismo espíritu de hospitalidad. Un lugar para descansar, bajar el ritmo y disfrutar del Parque Nacional de Peneda-Gerês a su manera.\n\nEstamos cerca y siempre disponibles para ayudarles a disfrutar de una estancia inolvidable.",
-      "rulesBody": "Hemos preparado Casinha D’Aldeia con cariño para que todos nuestros huéspedes se sientan cómodos y bienvenidos.\n\nLes pedimos que cuiden este lugar como si fuera su casa, respetando las instalaciones y la tranquilidad de los vecinos.\n\nAntes de salir, comprueben que las luces estén apagadas, las ventanas cerradas y la casa en buenas condiciones.\n\nSi surge algún imprevisto o algo no funciona correctamente, avísennos. Estamos aquí para ayudar.\n\nGracias por ayudarnos a cuidar este pequeño lugar que tanto nos gusta compartir."
+      "rulesBody": "Hemos preparado Casinha D’Aldeia con cariño para que todos nuestros huéspedes se sientan cómodos y bienvenidos.\n\nLes pedimos que cuiden este lugar como si fuera su casa, respetando las instalaciones y la tranquilidad de los vecinos.\n\nAntes de salir, comprueben que las luces estén apagadas, las ventanas cerradas y la casa en buenas condiciones.\n\nSi surge algún imprevisto o algo no funciona correctamente, avísennos. Estamos aquí para ayudar.\n\nGracias por ayudarnos a cuidar este pequeño lugar que tanto nos gusta compartir.",
+      "checkinValue": "A partir de las 16:00",
+      "checkoutValue": "Hasta las 12:00"
     },
     "fr": {
       "welcome": "Bienvenue !",
@@ -115,7 +121,9 @@
       "hostsHeading": "Découvrez Equicampo",
       "hostsWebsiteButton": "Découvrir Equicampo",
       "hostsBody": "Derrière Casinha D’Aldeia se trouve **Equicampo**, une entreprise fondée en 1995 au cœur du parc national de Peneda-Gerês, née d’une passion pour la nature, les chevaux et cette région si particulière.\n\nDepuis plus de 30 ans, nous partageons les beautés de la région avec nos visiteurs grâce aux balades à cheval, aux randonnées guidées, aux activités de plein air et à des expériences authentiques en montagne.\n\nCasinha D’Aldeia prolonge naturellement cet esprit d’hospitalité. Un lieu où se reposer, ralentir et découvrir le parc national de Peneda-Gerês à son rythme.\n\nNous sommes tout près et toujours disponibles pour rendre votre séjour inoubliable.",
-      "rulesBody": "Nous avons préparé Casinha D’Aldeia avec soin pour que chacun s’y sente bien accueilli.\n\nNous vous demandons simplement de prendre soin de ce lieu comme de votre propre maison, en respectant les équipements et la tranquillité du voisinage.\n\nAvant votre départ, merci d’éteindre les lumières, de fermer les fenêtres et de laisser la maison en bon état.\n\nEn cas d’imprévu ou de dysfonctionnement, prévenez-nous. Nous sommes là pour vous aider.\n\nMerci de contribuer à préserver ce petit lieu que nous aimons tant partager."
+      "rulesBody": "Nous avons préparé Casinha D’Aldeia avec soin pour que chacun s’y sente bien accueilli.\n\nNous vous demandons simplement de prendre soin de ce lieu comme de votre propre maison, en respectant les équipements et la tranquillité du voisinage.\n\nAvant votre départ, merci d’éteindre les lumières, de fermer les fenêtres et de laisser la maison en bon état.\n\nEn cas d’imprévu ou de dysfonctionnement, prévenez-nous. Nous sommes là pour vous aider.\n\nMerci de contribuer à préserver ce petit lieu que nous aimons tant partager.",
+      "checkinValue": "À partir de 16 h",
+      "checkoutValue": "Jusqu’à 12 h"
     },
     "de": {
       "welcome": "Herzlich willkommen!",
@@ -142,7 +150,9 @@
       "hostsHeading": "Entdecken Sie Equicampo",
       "hostsWebsiteButton": "Equicampo kennenlernen",
       "hostsBody": "Hinter Casinha D’Aldeia steht **Equicampo**, ein 1995 im Herzen des Nationalparks Peneda-Gerês gegründetes Unternehmen, entstanden aus der Leidenschaft für Natur, Pferde und diese besondere Region Portugals.\n\nSeit über 30 Jahren teilen wir die Schönheit der Region mit unseren Gästen – bei Ausritten, geführten Wanderungen, Outdoor-Abenteuern und authentischen Erlebnissen in den Bergen.\n\nCasinha D’Aldeia ist eine natürliche Fortsetzung dieser Gastfreundschaft: ein Ort zum Ausruhen, Entschleunigen und Entdecken des Nationalparks Peneda-Gerês im eigenen Tempo.\n\nWir sind immer in der Nähe und helfen Ihnen gerne dabei, Ihren Aufenthalt unvergesslich zu machen.",
-      "rulesBody": "Wir haben Casinha D’Aldeia mit viel Liebe vorbereitet, damit sich alle Gäste wohl und willkommen fühlen.\n\nBitte behandeln Sie die Unterkunft wie Ihr eigenes Zuhause und nehmen Sie Rücksicht auf die Einrichtung und die Ruhe unserer Nachbarn.\n\nBitte schalten Sie vor der Abreise das Licht aus, schließen Sie die Fenster und hinterlassen Sie das Haus in gutem Zustand.\n\nFalls etwas Unvorhergesehenes passiert oder nicht richtig funktioniert, sagen Sie uns bitte Bescheid. Wir helfen Ihnen gerne.\n\nVielen Dank, dass Sie uns helfen, diesen besonderen Ort zu bewahren."
+      "rulesBody": "Wir haben Casinha D’Aldeia mit viel Liebe vorbereitet, damit sich alle Gäste wohl und willkommen fühlen.\n\nBitte behandeln Sie die Unterkunft wie Ihr eigenes Zuhause und nehmen Sie Rücksicht auf die Einrichtung und die Ruhe unserer Nachbarn.\n\nBitte schalten Sie vor der Abreise das Licht aus, schließen Sie die Fenster und hinterlassen Sie das Haus in gutem Zustand.\n\nFalls etwas Unvorhergesehenes passiert oder nicht richtig funktioniert, sagen Sie uns bitte Bescheid. Wir helfen Ihnen gerne.\n\nVielen Dank, dass Sie uns helfen, diesen besonderen Ort zu bewahren.",
+      "checkinValue": "Ab 16:00 Uhr",
+      "checkoutValue": "Bis 12:00 Uhr"
     }
   },
   "places": [
