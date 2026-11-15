@@ -27,7 +27,12 @@
       "directionsButton": "Obter direções no Google Maps",
       "hostsBody": "Por detrás da Casinha D’Aldeia está a **Equicampo**, uma empresa nascida em 1995, no coração do Parque Nacional da Peneda-Gerês, de uma paixão pela natureza, pelos cavalos e por esta região tão especial.\n\nHá mais de 30 anos que partilhamos o melhor do Gerês com quem nos visita, através de passeios a cavalo, caminhadas, atividades de aventura e experiências que convidam a descobrir a serra de uma forma autêntica.\n\nA Casinha D’Aldeia é uma extensão dessa vontade de acolher. Um lugar para descansar, abrandar e sentir o Gerês ao seu ritmo.\n\nEstamos por perto e sempre disponíveis para ajudar a tornar a sua estadia especial.",
       "foodBody": "No Gerês, os sabores também fazem parte da descoberta. À mesa, a tradição revela-se nos pratos típicos da região, nos produtos locais e na hospitalidade de quem tão bem sabe receber.\n\nEntre restaurantes tradicionais e espaços mais descontraídos, reunimos algumas sugestões para saborear o melhor da gastronomia local, seja num almoço depois de uma manhã de aventuras ou num jantar tranquilo ao final do dia.\n\n**Descubra os sabores do Gerês e aproveite cada refeição sem pressas!**",
-      "stayIntro": "Para que se sinta verdadeiramente em casa, reunimos aqui todas as informações úteis para uma estadia tranquila e sem preocupações."
+      "stayIntro": "Para que se sinta verdadeiramente em casa, reunimos aqui todas as informações úteis para uma estadia tranquila e sem preocupações.",
+      "contactHeading": "Contactar o Anfitrião",
+      "contactIntro": "Estamos por perto e sempre disponíveis para ajudar, esclarecer dúvidas ou apoiar no que precisar durante a sua estadia.",
+      "contactCall": "Ligar",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Enviar e-mail"
     },
     "en": {
       "welcome": "Welcome!",
