@@ -822,23 +822,28 @@
       "translations": {
         "pt": {
           "title": "Estacionamento",
-          "body": "Para facilitar a descarga e o transporte das bagagens, podem estacionar temporariamente à porta do alojamento.\n\nPara estacionamentos mais prolongados, recomendamos que utilizem o parque de estacionamento público situado à entrada da aldeia, o mais próximo da Casinha D’Aldeia."
+          "body": "Para facilitar a descarga e o transporte das bagagens, podem estacionar temporariamente à porta do alojamento.\n\nPara estacionamentos mais prolongados, recomendamos que utilizem o parque de estacionamento público situado à entrada da aldeia, o mais próximo da Casinha D’Aldeia.",
+          "buttonLabel": "Obter direções · Parque de Estacionamento"
         },
         "en": {
           "title": "Parking",
-          "body": "You may park briefly in front of the house to unload your luggage.\n\nFor longer stays, please use the public car park at the entrance to the village, the closest one to Casinha D’Aldeia."
+          "body": "You may park briefly in front of the house to unload your luggage.\n\nFor longer stays, please use the public car park at the entrance to the village, the closest one to Casinha D’Aldeia.",
+          "buttonLabel": "Get Directions · Car Park"
         },
         "es": {
           "title": "Aparcamiento",
-          "body": "Pueden aparcar brevemente frente a la casa para descargar el equipaje.\n\nPara estancias más largas, recomendamos utilizar el aparcamiento público situado a la entrada de la aldea, el más cercano a Casinha D’Aldeia."
+          "body": "Pueden aparcar brevemente frente a la casa para descargar el equipaje.\n\nPara estancias más largas, recomendamos utilizar el aparcamiento público situado a la entrada de la aldea, el más cercano a Casinha D’Aldeia.",
+          "buttonLabel": "Cómo llegar · Aparcamiento"
         },
         "fr": {
           "title": "Stationnement",
-          "body": "Vous pouvez vous garer brièvement devant la maison pour décharger vos bagages.\n\nPour un stationnement prolongé, nous vous recommandons le parking public à l’entrée du village, le plus proche de Casinha D’Aldeia."
+          "body": "Vous pouvez vous garer brièvement devant la maison pour décharger vos bagages.\n\nPour un stationnement prolongé, nous vous recommandons le parking public à l’entrée du village, le plus proche de Casinha D’Aldeia.",
+          "buttonLabel": "Itinéraire · Parking"
         },
         "de": {
           "title": "Parken",
-          "body": "Zum Ausladen Ihres Gepäcks können Sie kurz vor dem Haus halten.\n\nFür längeres Parken empfehlen wir den öffentlichen Parkplatz am Dorfeingang, der Casinha D’Aldeia am nächsten liegt."
+          "body": "Zum Ausladen Ihres Gepäcks können Sie kurz vor dem Haus halten.\n\nFür längeres Parken empfehlen wir den öffentlichen Parkplatz am Dorfeingang, der Casinha D’Aldeia am nächsten liegt.",
+          "buttonLabel": "Route anzeigen · Parkplatz"
         }
       },
       "buttonLabel": "Obter direções · Parque de Estacionamento",
